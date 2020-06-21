@@ -1,0 +1,6 @@
+share/
+include/
+lib/
+bin/
+
+*~
